@@ -112,3 +112,4 @@ if __name__ == "__main__":
 	commentsPos,comments,nocomments=parseComments(fileName)
 	print "content without comments:"
 	print nocomments
+	# test slack channel
